@@ -21,5 +21,5 @@ Nginx routes requests to each service based on the request path, all accessible 
 docker-compose up --build
 ## Screenshots
 
-![Project Structure]
+![Project Structure]![Image](https://github.com/user-attachments/assets/4034cda9-f529-4843-b261-71694c8a831e)
 
